@@ -5,7 +5,7 @@ A curated **Flowy** Flow: hand-picked best-of-breed security-review skills + a `
 ## Install
 
 ```
-/flowy secure-review-flow
+/flowy:secure-review-flow
 ```
 
 ## What it routes
