@@ -1,0 +1,7 @@
+{
+  "name": "secure-review-flow",
+  "owner": "MaximoCorrea1",
+  "plugins": [
+    { "name": "secure-review-flow", "source": "./", "description": "Secure Review curated Flow." }
+  ]
+}

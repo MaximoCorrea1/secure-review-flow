@@ -1,0 +1,5 @@
+{
+  "name": "secure-review-flow",
+  "private": true,
+  "scripts": { "test": "bun test" }
+}
