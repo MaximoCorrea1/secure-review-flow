@@ -1,6 +1,7 @@
 # FLOW.md: Secure Review
 
-> Routes a security review so the right skill fires at each phase: scope the audit and build context, assess the code against OWASP and a SAST pass, expand each finding into its variants, review the changes that introduced risk, then triage every candidate to a verdict before any "secure" claim.
+> Find the security holes in your code before attackers do. This Flow maps your attack surface, runs an OWASP pass and a code scanner, hunts for repeat bugs, then triages every finding to a verdict.
+
 > Skills vendored from agamm (MIT) and Trail of Bits (CC-BY-SA-4.0) — see ATTRIBUTION.md. Routing by Flowy.
 
 <!-- The Flowy engine supplies the universal contract (announce ritual, invoke/READ,

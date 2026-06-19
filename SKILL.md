@@ -1,6 +1,6 @@
 ---
 name: secure-review-flow
-description: Hand-picked security-review skills + a FLOW.md router. Scope, OWASP, SAST, variant hunt, diff review, triage.
+description: Find security holes before attackers do: map the attack surface, scan, hunt repeat bugs, and triage every finding.
 version: 0.1.0
 license: CC-BY-SA-4.0
 domain: software-engineering
